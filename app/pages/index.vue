@@ -13,7 +13,7 @@ defineOgImageComponent("General", {
       <div>
         Hi. I&apos;m
         <NuxtLink
-          href="https://twitter.com/t3dotgg"
+          href="https://x.com/TheAlexLichter"
           target="_blank"
           rel="noopener noreferrer"
           class="hover:underline"
